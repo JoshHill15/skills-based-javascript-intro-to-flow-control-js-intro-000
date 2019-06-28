@@ -4,7 +4,7 @@ function basicTeenager(age) {
   } else {
     return "You are not a teenager!"
   }
-  
+
 basicTeenager(15)
 
 
